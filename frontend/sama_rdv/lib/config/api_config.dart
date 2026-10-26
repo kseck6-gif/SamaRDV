@@ -1,5 +1,4 @@
-
 class ApiConfig {
-  // Adresse de l'API Django pour Chrome sur le PC.
-  static const String baseUrl = 'http://127.0.0.1:8000/api';
+  // API Django SamaRDV déployée sur Render.
+  static const String baseUrl = 'https://samardv.onrender.com/api';
 }
